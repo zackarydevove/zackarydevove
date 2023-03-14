@@ -1,4 +1,4 @@
-Hey there! 👋 I'm Zackary Devove, an aspiring full stack web developer, currently learning the MERN stack. Welcome to my GitHub profile where I share my programming projects and progress. Thanks for stopping by!
+Hey there! 👋 I'm Zackary Devove, a full stack web developer. Welcome to my GitHub profile where I share my programming projects and progress. Thanks for stopping by!
 
 \
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
