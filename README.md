@@ -1,4 +1,8 @@
-Hey there! 👋 I'm Zackary Devove, a full stack web developer. Welcome to my GitHub profile where I share my programming projects and progress. Thanks for stopping by!
+<h1>Hey there, I'm Zackary Devove! 👋</h1>
+
+I'm a Full Stack Web Developer with expertise in building dynamic and scalable web applications using a range of technologies. My passion for programming drives me to constantly learn and implement new concepts and technologies, as well as share my projects and progress with the community.
+
+<h1>💻 Technologies & Tools</h1>
 
 \
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -21,8 +25,12 @@ Hey there! 👋 I'm Zackary Devove, a full stack web developer. Welcome to my Gi
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 
+<h1>🚀 Projects & Contributions</h1>
+Check out my GitHub repositories to explore my projects and contributions. I strive to build projects that not only showcase my skills but also solve real-world problems and add value to users.
 
-
+<h1>📫 Let's Connect</h1>
+If you're interested in collaborating or have any questions, feel free to reach out to me via email (zackarydevove@hotmail.com), <a href='https://twitter.com/ZackaryDevove'>Twitter</a> or <a href='https://www.linkedin.com/in/zackarydevove/'>LinkedIn</a>.
+Thanks for stopping by and have a great day!
 
 
 
