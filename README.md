@@ -27,7 +27,7 @@ I'm a Full Stack Web Developer with expertise in building dynamic and scalable w
 
 
 <h1>🚀 Projects & Contributions</h1>
-Check out my GitHub repositories to explore my projects and contributions. I strive to build projects that not only showcase my skills but also solve real-world problems and add value to users.
+Check out my GitHub repositories to explore my projects and contributions.
 
 <h1>📫 Let's Connect</h1>
 If you're interested in collaborating or have any questions, feel free to reach out to me via email (zackarydevove@hotmail.com), <a href='https://twitter.com/ZackaryDevove'>Twitter</a> or <a href='https://www.linkedin.com/in/zackarydevove/'>LinkedIn</a>.
