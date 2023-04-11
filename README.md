@@ -25,8 +25,8 @@ I'm a Full Stack Web Developer with expertise in building dynamic and scalable w
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
 
-<h1>🚀 Projects & Contributions</h1>
-Check out my GitHub repositories to explore my projects and contributions.
+<h1>🚀 Projects</h1>
+Check out my GitHub repositories to explore my projects.
 
 <h1>📫 Let's Connect</h1>
 If you're interested in collaborating or have any questions, feel free to reach out to me via email (zackarydevove@hotmail.com), <a href='https://twitter.com/ZackaryDevove'>Twitter</a> or <a href='https://www.linkedin.com/in/zackarydevove/'>LinkedIn</a>.
