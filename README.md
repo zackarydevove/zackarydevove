@@ -1,6 +1,6 @@
 <h1>Hey there, I'm Zackary Devove! 👋</h1>
 
-I'm a Full Stack Web Developer with expertise in building dynamic and scalable web applications using a range of technologies. My passion for programming drives me to constantly learn and implement new concepts and technologies, as well as share my projects and progress with the community.
+I'm a Blockchaind and Fullstack developer with expertise in building dynamic and scalable web applications using a range of technologies. My passion for programming drives me to constantly learn and implement new concepts and technologies, as well as share my projects and progress with the community.
 
 <h1>💻 Technologies & Tools</h1>
 
@@ -19,11 +19,14 @@ I'm a Full Stack Web Developer with expertise in building dynamic and scalable w
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
+
 
 
 <h1>🚀 Projects</h1>
