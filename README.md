@@ -1,6 +1,6 @@
 <h1>Hey there, I'm Zackary Devove! 👋</h1>
 
-I'm a Blockchain and Fullstack developer with expertise in building dynamic and scalable decentralized and web applications using a range of technologies. My passion for programming drives me to constantly learn and implement new concepts and technologies, as well as share my projects and progress with the community.
+I'm a Fullstack web developer with expertise in building dynamic and scalable web applications using a range of technologies. My passion for programming drives me to constantly learn and implement new concepts and technologies, as well as share my projects and progress with the community.
 
 <h1>💻 Technologies & Tools</h1>
 
